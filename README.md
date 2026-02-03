@@ -1,2 +1,11 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# DevOps Git Workflow Assignment
+
+## Interesting Article
+
+[The Twelve-Factor App](https://12factor.net/)
+
+## Why I Found This Interesting
+
+This article outlines a set of best practices for building scalable and maintainable web applications, especially in cloud-native and DevOps-driven environments. I found it interesting because it connects software architecture decisions directly to operational reliability, deployment automation, and long-term maintainability.
+
+The principles discussed—such as strict separation of config from code, stateless processes, and treating backing services as attached resources—are highly relevant to modern DevOps workflows and platform engineering. These ideas reinforce why version control, CI/CD, and infrastructure automation are critical in real-world systems.
